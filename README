@@ -1,0 +1,15 @@
+#SUDOKU-using-CSP
+
+          INTRODUCTION:
+In this project, I have implemented backtracking and various constraint
+satisfaction algorithms to solve the “Sudoku” game more efficiently.
+
+Added SudokuGameSolver.py which implements all the algorithms in SudokuSolver
+class.
+
+Apllied following techniques for Sudoku game:
+1. Backtracking
+2. Backtracking + MRV heuristic
+3. Backtracking + MRV + Forward Checking
+4. Backtracking + MRV + Constraint Propagation
+
